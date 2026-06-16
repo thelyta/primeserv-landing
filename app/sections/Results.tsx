@@ -13,21 +13,21 @@ const stats = [
 const testimonials = [
   {
     quote: "Before PrimeServ, our website was just... there. After the rebuild, we started getting 3–4 enquiry calls a week from people who found us online. We had never had that before.",
-    name: "Client Name",
-    business: "Business Type",
-    city: "City",
+    name: "George",
+    business: "Real estate",
+    city: "California",
   },
   {
     quote: "I did not think a website would move the needle for my business. I was wrong. Within 30 days of launching the new site, we had more qualified leads than we had had in the previous 6 months.",
-    name: "Client Name",
-    business: "Business Type",
-    city: "City",
+    name: "Mr Segun",
+    business: "Agency",
+    city: "Global",
   },
   {
     quote: "The process was smooth and the result was better than I expected. But more importantly — it converts. That is what matters.",
-    name: "Client Name",
-    business: "Business Type",
-    city: "City",
+    name: "Dr Empire",
+    business: "Dental Clinic",
+    city: "Lagos",
   },
 ];
 
